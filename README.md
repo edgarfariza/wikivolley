@@ -23,18 +23,18 @@ Portal web dinámico orientado al entorno del vóley playa profesional, desarrol
 
 ## Estructura del proyecto
 wikivolley/
-├── index.php
-├── login.php
-├── registro.php
-├── logout.php
-├── conexion.php
-├── ejecutar_script.php
-├── modificar_usuario.php
-├── postular.php
-├── import json.py
-├── noticias.json
-├── styles.css
-└── img/
+-├── index.php
+-├── login.php
+-├── registro.php
+-├── logout.php
+-├── conexion.php
+-├── ejecutar_script.php
+-├── modificar_usuario.php
+-├── postular.php
+-├── import json.py
+-├── noticias.json
+-├── styles.css
+-└── img/
 ## Cómo ejecutarlo en local
 
 1. Tener **XAMPP** instalado con Apache y MySQL activos
