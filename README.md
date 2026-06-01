@@ -35,3 +35,14 @@ wikivolley/
 ├── noticias.json
 ├── styles.css
 └── img/
+## Cómo ejecutarlo en local
+
+1. Tener **XAMPP** instalado con Apache y MySQL activos
+2. Clonar el repositorio dentro de `htdocs/`
+3. Importar la base de datos en phpMyAdmin con el nombre `4736486_volley`
+4. Crear un usuario admin ejecutando `generar_usuario.php` una sola vez
+5. Acceder desde el navegador a `http://localhost/wikivolley`
+
+##  Autor
+
+**Edgar F. Ariza Carreño** — 1º DAM, UAX 2025/2026
