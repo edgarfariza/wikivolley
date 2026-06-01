@@ -22,3 +22,16 @@ Portal web dinámico orientado al entorno del vóley playa profesional, desarrol
   - Gestión de usuarios: ascender, degradar o eliminar cuentas
 
 ## Estructura del proyecto
+wikivolley/
+├── index.php
+├── login.php
+├── registro.php
+├── logout.php
+├── conexion.php
+├── ejecutar_script.php
+├── modificar_usuario.php
+├── postular.php
+├── import json.py
+├── noticias.json
+├── styles.css
+└── img/
