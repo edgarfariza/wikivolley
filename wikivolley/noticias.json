@@ -1,0 +1,32 @@
+[
+    {
+        "titulo": "Copa del Rey y de la Reina de Vóley Playa",
+        "contenido": "Las mejores parejas del circuito nacional se citan en la arena para disputar el título más prestigioso de la temporada en un torneo lleno de intensidad.",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ1tSfXvFrzfxF1FYooHBroatauw_AcJgZMw&s",
+        "enlace": "https://www.rfevb.com"
+    },
+    {
+        "titulo": "VNL 2026: Arranca la Volleyball Nations League",
+        "contenido": "Las grandes potencias del voleibol mundial miden sus fuerzas en la edición 2026 de la VNL, buscando el pase a la gran fase final.",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaQaNG9i9ocJ7PscBf3HQ5zHggHNERXCswyA&s",
+        "enlace": "https://en.volleyballworld.com"
+    },
+    {
+        "titulo": "Wilfredo León lidera el mercado de fichajes",
+        "contenido": "El receptor cubano-polaco, considerado uno de los jugadores más determinantes del planeta, vuelve a acaparar todas las miradas con sus últimas actuaciones estelares.",
+        "imagen": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTTKp-0fmFuk3yetMnUsog85DyyBbvd0zYM94111a4ZMkBSYBWRzYebjOLucW-8J01Rpoq52TiCo-DRNLM",
+        "enlace": "https://en.volleyballworld.com"
+    },
+    {
+        "titulo": "España se prepara para el Mundial de Vóley Playa",
+        "contenido": "La selección española de vóley playa intensifica su preparación de cara al próximo Mundial, con la mirada puesta en superar su mejor resultado histórico.",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA8uxGlAO1nWplF7C-aLyAycc3xpzLX5gNxg&s",
+        "enlace": "https://www.marca.com/voleibol/2024/09/15/5f8b9c1e268e3e7a2b8b456.html"
+    },
+    {
+        "titulo": "La Liga Iberdrola de Vóley Femenino arranca con emoción",
+        "contenido": "El campeonato nacional femenino da el pistoletazo de salida con un cartel de lujo, prometiendo una temporada llena de rivalidades y talento emergente.",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMhs2r8FYIJ4uIfSI4DYaXzyy6hxR09lko1A&sg",
+        "enlace": "https://www.esvoley.es"
+    }
+]
