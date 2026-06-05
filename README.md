@@ -1,6 +1,6 @@
 # 🏐 WIKIVOLLEY
 
-Portal web dinámico orientado al entorno del vóley playa profesional, desarrollado como proyecto intermodular de 1º de DAM en la Universidad Alfonso X el Sabio (UAX).
+Portal web dinámico orientado al entorno del voleibol profesional, desarrollado como proyecto intermodular de 1º de DAM en la Universidad Alfonso X el Sabio (UAX).
 
 ## Tecnologías utilizadas
 
